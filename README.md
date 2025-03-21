@@ -3,6 +3,8 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kkamisister&count_bg=%23f9c846&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=Visits&edge_flat=false" width="160" height="30"/>
 </p>
 
+
+<!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&text=잘%20찾아오셨습니다!&fontAlign=50&fontSize=35&fontColor=ffffff" width="100%" />
 
 <h2 align="center">👩🏻‍💻 풀스택 개발자를 희망하는, 🏃‍♀️ 열심히 달려가고 있는 김윤지입니다!</h2>
@@ -39,8 +41,9 @@
 
 ---
 
-### 🧾 최신 블로그 글
-
-<!-- BLOG-POST-LIST:START -->
-<!-- 이 사이에 자동으로 최신 글이 삽입됩니다 -->
-<!-- BLOG-POST-LIST:END -->
+### 📝 제 밸로그 많관부  
+<p align="center">
+  <a href="https://velog.io/@kkamisister/posts">
+    <img src="https://velog-readme-stats.vercel.app/api?name=kkamisister" style="height: 180px;"/>
+  </a>
+</p>
