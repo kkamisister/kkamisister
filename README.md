@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kkamisister&color=ff69b4&style=flat-rounded" alt="Profile Views" width="160" height="30"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kkamisister&count_bg=%23f9c846&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=Visits&edge_flat=false" width="160" height="30"/>
+<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kkamisister&count_bg=%23f9c846&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=Visits&edge_flat=false" width="160" height="30"/> -->
 </p>
 
 
