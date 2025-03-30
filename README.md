@@ -50,14 +50,6 @@
 
 ---
 
-### 💬 About Me
-- 🌱 **사용자 중심 서비스 기획**과 **개발 간 이해**를 중시하는 PM이 되고자 합니다.  
-- 🔎 프론트엔드뿐 아니라 백엔드(Django)도 경험하며 풀스택 역량을 키워가고 있어요.  
-- ✍️ 기술 블로그를 통해 꾸준히 배운 것을 정리하고 공유합니다.  
-- 💡 무엇보다 *팀과의 협업*을 즐깁니다!
-
----
-
 ### 📫 Contact
 <p align="center">
   <a href="mailto:kkamisister1207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
