@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 GitHub Stats & Languages
+### 📈 GitHub Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkamisister&layout=compact&theme=graywhite" height="180"/>
 </p>
