@@ -44,7 +44,7 @@
 ### 📝 Velog 글 보러가기  
 <p align="center">
   <a href="https://velog.io/@kkamisister/posts" target="_blank">
-    <img src="https://velog-readme-stats.vercel.app/api?name=kkamisister" height="180"/>
+    <img src="https://velog-readme-stats.vercel.app/api?name=kkamisister" height="140" width="350"/>
   </a>
 </p>
 
