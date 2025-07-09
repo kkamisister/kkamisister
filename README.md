@@ -61,9 +61,9 @@
   
   총 4개의 팀 프로젝트 수행  
   - 사용자 감정 기반 영화 추천 서비스  
-  - 지인의 지인 소개 플랫폼  
-  - 자산 포트폴리오 리밸런싱 추천 서비스 *(특화 프로젝트 2위 수상)*  
-  - 동시 주문이 가능한 테이블 오더 서비스
+  - [지인의 지인 소개 플랫폼](https://github.com/zinzin-team/zinzin)  
+  - [자산 포트폴리오 리밸런싱 추천 서비스](https://github.com/kkamisister/mutualrisk) *(특화 프로젝트 2위 수상)*  
+  - [동시 주문이 가능한 테이블 오더 서비스](https://github.com/kkamisister/JDQR)
 
 - **KB IT's Your Life 6기** `2025.03 ~ 진행 중`
   
