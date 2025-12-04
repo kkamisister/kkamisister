@@ -22,7 +22,7 @@
 
 ---
 
-## 🧭 Core Strengths (핵심 역량)
+## 🧭 Core Strengths
 
 - **프로젝트 리딩:** 3개월 규모 서비스 프로젝트 총괄 (목표 설정, 일정·리스크 관리)  
 - **협업 조율:** 기획–UI/UX–개발 간 커뮤니케이션 브릿지 역할 수행  
@@ -77,7 +77,8 @@ PM으로서 기술적 이해를 기반으로 현실적 기획을 지향합니다
   - [자산 포트폴리오 리밸런싱 추천 서비스](https://github.com/kkamisister/mutualrisk) *(특화 프로젝트 2위 수상)*  
   - [동시 주문이 가능한 테이블 오더 서비스](https://github.com/kkamisister/JDQR)
 
-- **KB IT's Your Life 6기** `2025.03 ~ 2025.08`  
+- **KB IT's Your Life 6기** `2025.03 ~ 2025.08`
+  
   2개의 프로젝트 팀장
   - [Vue 기반 예산/거래 관리 서비스](https://github.com/orgs/JGStudy/repositories)
   - [펀딩 서비스](https://github.com/Jejudo-Ticket)
@@ -98,7 +99,7 @@ PM으로서 기술적 이해를 기반으로 현실적 기획을 지향합니다
 
 ---
 
-## 📜 Certifications (자격증)
+## 📜 Certifications
 
 - **SQLD** `2025.04` 
 - **DAsP** `2025.04`
